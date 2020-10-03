@@ -2,6 +2,8 @@ from pickle import load,dump
 import time
 import random
 import os
+import pygame
+import pycharm
 class tickets:
     def __init__(self):
         self.no_ofac1stclass=0
