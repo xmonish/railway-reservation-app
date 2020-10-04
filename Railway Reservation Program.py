@@ -110,8 +110,8 @@ class tickets:
             print"RS.600 REFUNDED...."
     def reservation(self):
         trainno=int(raw_input("ENTER THE TRAIN NO:"))
-        z=0
-        f=0
+        z=18760
+        f=18761
         fin2=open("tr1details.dat")
         fin2.seek(0)
         if not fin2:
