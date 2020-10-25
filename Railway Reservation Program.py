@@ -272,7 +272,7 @@ class tickets:
                 print
                 print
                 print 
-
+//Train Details
 class train:
     def __init__(self):
         self.trainno=0
