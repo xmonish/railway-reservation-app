@@ -1,4 +1,2 @@
-# my-first-repo
-#my-second-repo
-This Repo is about Reservation to railway reservation
+This Repo contains a railway ticket reservation program made using python
 
